@@ -1,0 +1,1 @@
+This is spanningmind's first true Git project. 
